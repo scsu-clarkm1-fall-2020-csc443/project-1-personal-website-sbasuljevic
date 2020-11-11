@@ -1,0 +1,26 @@
+# Plan
+
+## Overview:
+The purpose of this project is to create a resume site and will be around 4 pages and shall be entirely responsive and the site should be static. It should be static in order to maintain a simple experience since the information being displayed should be shown quickly and without much input from the user. Though being responsive isn’t extremely important as most potential employers are using computers such as laptops or desktops, it will be nice to have it adjust based on screen size. The desired employment for this page would be related to data science or web development. This site would mostly just display information from my resume on a simpe and easy to navigate site.
+## Goals:
+### Display Resume Information:
+The main goal of this project is to display information about myself to share between possible employers that will be able to review the site. In this, they should be able to gather information on my skills, work history, education, and any other related information. 
+### Easy to Navigate:
+The organization of the site will allow easier access to my resume in a more intriguing manner. They should be able to easily view their desired information about me and my skills.
+### Increase Viewer Traffic
+Current traffic for viewing my profile on sites such as LinkedIn are about 7-8 recruiters per month. I would like to increase this value at least 100% more so doubling the amount of visitors. 
+## Target Users:
+1) User is Bill Adams 54 years old and is a full time recruiter for a tech company needing an entry level data analyst to join their team. The user is having issues finding my background information to find out if I would be a good fit for the position. The user will travel to my website through a link shared through any of my social media or through my LinkedIn profile and will be directed to the site. They will then be able to select the "background" tab to discover my skillset and experience.
+
+2) User is Jane Doe and is a 35 year old recruiter who I have spoken with over the phone. They are excited to offer me a second interview, but have no contact information or formal resume for me on file. The user will travel to my website through a link shared through any of my social media or through my LinkedIn profile and will be directed to the site. 
+Afterwards, they can look for my "Contact Me" tab and be redirected to all my information as well as the "Background" tab to gain access to a downloadable file for my resume. 
+## Content:
+The site will include a title page with hero image of myself that will provide basic background information on me, a sort of summary. One page will include my background including education and software experience. Another page should include any related positions that I have held. Finally, a contact page listing all my contact and mailing information. 
+
+## Similar sites:
+https://www.cynthialive.com/
+![Home Page of Site Using Hero Image and Banner, possibly include socials on bottom as well.](../Pictures/cynthia)
+
+https://annhandley.com/
+![About me page and the downloadable files at the bottom of the page are both things I would take inspiration from.](../Pictures/ann)
+
